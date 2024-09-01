@@ -1,7 +1,7 @@
 ## Install the Kiota .NET Global Tool
 ```shell
 dotnet new tool-manifest # if you are setting up this repo
-dotnet tool install --local Microsoft.OpenApi.Kiota --version 1.17.0
+dotnet tool install --local Microsoft.OpenApi.Kiota
 ```
 
 ## Generate the TypeScript SDK Using Kiota
