@@ -1,0 +1,6 @@
+@KiotaTypeScript_HostAddress = http://localhost:5293
+
+GET {{KiotaTypeScript_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
